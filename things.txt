@@ -1,1 +1,11 @@
-Things
+Things to do:
+
+Which method to use?
+
+Data structure?
+
+Time/space resolution?
+
+Equations to solve?
+
+Verification methods?
