@@ -2,6 +2,16 @@ Things to do:
 
 Which method to use?
 
+Lagrangian method.
+Algorithm:
+
+1. Find P^0_0 (Pressure at t = 0 and x = 0) using the boundary condition Temperature
+2. Find the rest of P^0_n using the boundary condition
+3. Find F^0_n, v^0_n, x^0_n (in this order)
+4. Use change in volume to find work done, which gives us the new internal energy, and find the pressure at time i (P^i_n)
+5. Use that to find F^i_n, then v^i_n, then x^i_n.
+6. Repeat 4 - 5 for as long as we want.
+
 Data structure?
 
 Time/space resolution?
